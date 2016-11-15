@@ -1,15 +1,15 @@
 # adorable-bettong
 
-# RELATIONAL DATABASES ~ SQL Foundations | Team MEL ~ adorable-bettong | @mikeadossi @elleyes @lizzkatz
+### RELATIONAL DATABASES ~ SQL Foundations | Team MEL ~ adorable-bettong | @mikeadossi @elleyes @lizzkatz
 
-## RESOURCES
+### RESOURCES
 
 SQLBolt
 SQLZoo
 SQL Teaching
 TODO List (TBD)
 
-## SPECS
+### SPECS
 
 ### SQL Foundations & Practice Specs
 
