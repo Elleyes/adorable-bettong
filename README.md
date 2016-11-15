@@ -4,10 +4,10 @@
 
 ### RESOURCES
 
-SQLBolt
-SQLZoo
-SQL Teaching
-TODO List (TBD)
+- SQLBolt
+- SQLZoo
+- SQL Teaching
+- TODO List (TBD)
 
 ### SPECS
 
