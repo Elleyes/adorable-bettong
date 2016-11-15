@@ -1,6 +1,6 @@
 # adorable-bettong
 
-### RELATIONAL DATABASES ~ SQL Foundations | Team MEL ~ adorable-bettong | @mikeadossi @elleyes @lizzkatz
+### RELATIONAL DATABASES ~ SQL Foundations | Team MEL | @mikeadossi @elleyes @lizzkatz
 
 ### RESOURCES
 
