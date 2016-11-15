@@ -6,7 +6,9 @@
 
 - SQLBolt
 - SQLZoo
+- Hacker Rank
 - SQL Teaching
+- Grid mapper
 - TODO List (TBD)
 
 ### SPECS
@@ -28,6 +30,8 @@
 ### STRETCH Spec
 
 - [ ] TODO List
+- [ ] Grid mapper project
+- [ ] Design Restful
 - [ ] What are 1NF, 2NF and 3NF in database design?
 
 ### Context Notes
