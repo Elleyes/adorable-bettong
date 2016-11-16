@@ -7,7 +7,8 @@
 - SQLBolt
 - SQLZoo
 - Hacker Rank
-- [Restful API setup]["http://mherman.org/blog/2016/03/13/designing-a-restful-api-with-node-and-postgres/#.WCyqV6IrLb7"]
+- [Restful API setup](http://mherman.org/blog/2016/03/13/designing-a-restful-api-with-node-and-postgres/#.WCyqV6IrLb7)
+ [Competencies Heat Map ](https://docs.google.com/spreadsheets/d/1jgXLXgGOZlfkDXN_kLfw2jIiP2O-0xW9nP69MZMfd7Y/edit?usp=sharing)
 
 ### SPECS
 
