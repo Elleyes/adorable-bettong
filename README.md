@@ -7,9 +7,7 @@
 - SQLBolt
 - SQLZoo
 - Hacker Rank
-- SQL Teaching
-- Grid mapper
-- TODO List (TBD)
+- [Restful API setup]["http://mherman.org/blog/2016/03/13/designing-a-restful-api-with-node-and-postgres/#.WCyqV6IrLb7"]
 
 ### SPECS
 
@@ -17,7 +15,7 @@
 
 - [ ] SQL query fundamentals SQLBolt
 - [ ] SQL query fundamentals SQLZOO Execute tutorial queries directly on SQLBolt and SQLZOO to yield the desired data.
-- [ ] SQL practice exercises (TBD?)
+- [ ] SQL practice exercises
 - [ ] HackerRank (1) ~ Relational Algebra | non-relational/NoSQL databases practice
 - [ ] HackerRank (2) ~ Database Normalization | SQL query construction for relational databases
 - [ ] Construct queries (LeetCode / other / TBD?)
@@ -29,10 +27,7 @@
 
 ### STRETCH Spec
 
-- [ ] TODO List
-- [ ] Grid mapper project
-- [ ] Design Restful
-- [ ] What are 1NF, 2NF and 3NF in database design?
+- [ ] Design RESTful web service with JavaScript, Node, Express, Postgres, and pg-promise.
 
 ### Context Notes
 
