@@ -13,14 +13,14 @@
 
 #### SQL Foundations & Practice Specs
 
-- [ ] SQL query conceptual fundamentals in SQLBolt
-- [ ] SQL query exercises SQLZOO
-- [ ] Complete 10 Relational Algebra challenges on HackerRank
-- [ ] Complete 5 Database Normalization challenges on HackerRank
+- [x] SQL query conceptual fundamentals in SQLBolt
+- [x] SQL query exercises SQLZOO
+- [x] Complete 10 Relational Algebra challenges on HackerRank
+- [x] Complete 5 Database Normalization challenges on HackerRank
 
 #### STRETCH SPEC
 
-- [ ] Design RESTful web service with JavaScript, Node, Express, Postgres, and pg-promise.
+- [x] Design RESTful web service with JavaScript, Node, Express, Postgres, and pg-promise.
 
 #### What skills and concepts did we acquire working on this relational database challenge
 
